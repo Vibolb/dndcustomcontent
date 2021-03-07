@@ -8,5 +8,33 @@
 	</info>
 	
 	<!-- place your elements here -->
-	
+	<element type="Magic Item" source="Homebrew Vincent B" id="ID_WONDROUS_ITEM_BAND_OF_EQUANIMITY" name="Band of Equanimity">
+		<supports>Wondrous Items</supports>
+		<description>
+			<p> While attuned to this item</p>
+			<p>
+				<list type="bullet">
+					<p>
+						<item>
+							<strong>Once per long rest</strong>, you may use your reaction, which you take when you are hit by a weapon or spell attack, to add your spellcasting modifier, to your AC. 
+						</item>
+					</p>
+					<p>
+						<item>
+							<strong>Once per short</strong>, you can broadcast a telepathic message of nomore than 30 words and no longer than 30 seconds to up to 6 willing creates that you can see within 30 feet of you. 
+						</item>
+					</p>
+				</list>
+			</p>
+		</description>
+		<setters>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="0">0.25 lb.</set>
+			<set name="slot">head</set>
+			<set name="type">Wondrous Item</set>
+			<set name="attunement">true</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
 </elements>
