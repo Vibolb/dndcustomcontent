@@ -1,7 +1,7 @@
 # dndcustomcontent
 additional content to extend [Aurora](https://aurorabuilder.com/), by dndwiththeboys
 
-index url: https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/user-dndwiththeboys.index
+index url: https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/user-campaign-one.index
 
 ---
 
