@@ -3,7 +3,7 @@
 	<info>
 		<name>Campaign One</name>
 		<update version="1.0.0">
-			<file name="user-campaign-one.index" url="https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/campaign-one.index" />
+			<file name="campaign-one.index" url="https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/campaign-one.index" />
 		</update>
 	</info>
 	<files>
