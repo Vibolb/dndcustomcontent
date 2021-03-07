@@ -9,6 +9,5 @@
 	<files>
 		<file name="source.xml" url="https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/campaign-one/source.xml"/>
 		<file name="items-wondrous.xml" url="https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/campaign-one/items-wondrous.xml" />
-		<file name="file2.xml" url="https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/campaign-one/file2.xml" />
 	</files>
 </index>
