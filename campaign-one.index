@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <index>
 	<info>
-		<name>Your Content</name>
+		<name>Campaign One</name>
 		<update version="1.0.0">
 			<file name="user-campaign-one.index" url="https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/campaign-one.index" />
 		</update>
