@@ -3,6 +3,7 @@ Additional content by Vincent B and friends intended to extend the existing [Aur
 
 Based on the template respository provided by aurorabuilder: https://github.com/aurorabuilder/repository-template.git
 
+---
 
 index url: https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/campaign-one.index
 
