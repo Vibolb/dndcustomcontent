@@ -1,9 +1,11 @@
 # dndcustomcontent
-additional content to extend [Aurora](https://aurorabuilder.com/), by dndwiththeboys
+Additional content by Vincent B and friends intended to extend the existing [Aurora](https://aurorabuilder.com/) character builder.
+
 Based on the template respository provided by aurorabuilder: https://github.com/aurorabuilder/repository-template.git
 
+---
 
-index url: https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/user-campaign-one.index
+index url: https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/campaign-one.index
 
 ---
 
