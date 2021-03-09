@@ -2,10 +2,10 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="sources.xml" url="https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/campaign-one/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/campaign-one/source.xml" />
 		</update>
 	</info>
-	<element name="DnDCustomContent - Campaign One" type="Source" source="User" id="ID_CUSTOM_SOURCE_DND_WITH_THE_BOYS_CAMPAIGN_ONE">
+	<element name="DnDCustomContent - Campaign One" type="Source" source="Core" id="ID_CUSTOM_SOURCE_DND_WITH_THE_BOYS_CAMPAIGN_ONE">
 		<description>
 			<![CDATA[<p><strong>Homebrew content from Campaign One of Dnd With the Boys!</p><p>Daniel B (DM)</p><p>Vincent B</p><p>Alex Van.</p><p>Alex Vielf.</p><p>Tristan M-R</p><p>Laurent M.</p>]]>
 		</description>
