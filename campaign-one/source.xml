@@ -5,7 +5,7 @@
 			<file name="sources.xml" url="https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/campaign-one/source.xml" />
 		</update>
 	</info>
-	<element name="DnD with the boys campaign one" type="Source" source="User" id="ID_CUSTOM_SOURCE_DND_WITH_THE_BOYS_CAMPAIGN_ONE">
+	<element name="DnDCustomContent - Campaign One" type="Source" source="User" id="ID_CUSTOM_SOURCE_DND_WITH_THE_BOYS_CAMPAIGN_ONE">
 		<description>
 			<![CDATA[<p><strong>Homebrew content from Campaign One of Dnd With the Boys!</p><p>Daniel B (DM)</p><p>Vincent B</p><p>Alex Van.</p><p>Alex Vielf.</p><p>Tristan M-R</p><p>Laurent M.</p>]]>
 		</description>
@@ -15,7 +15,7 @@
 			<set name="author" abbreviation="Vincent B" url="https://github.com/Vibolb/dndcustomcontent.git">Vincent B.</set>
 			<set name="official">false</set>
 			<set name="core">false</set>
-			<set name="release">20210305</set>
+			<set name="release">20210308</set>
 		</setters>
 	</element>
 </elements>
