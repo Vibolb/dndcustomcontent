@@ -8,9 +8,9 @@
 	</info>
 	
 	<!-- place your elements here -->
-	<element name="Lex Talionis" id="ID_DNDC1_DMG_MAGIC_ITEM_LEX_TALIONIS" source="DnDCustomContent - Campaign One" type="Magic Item">
+	<!-- <element name="Lex Talionis" id="ID_DNDC1_DMG_MAGIC_ITEM_LEX_TALIONIS" source="DnDCustomContent - Campaign One" type="Magic Item">
         <description>
-            <p>While attuned to this item AND wielding it, the bearer can cast <strong>An Eye for an Eye</strong> and <strong>A Tooth for a Tooth</strong> once per long rest</p>
+            <p>While attuned to this item AND wielding it, the bearer can cast <strong><em>An Eye for an Eye</em></strong> and <strong><em>A Tooth for a Tooth</em></strong> once per long rest</p>
             <div class="reference">
                 <div element="ID_DNDC1_SPELL_AN_EYE_FOR_AN_EYE"/>
             </div>
@@ -28,7 +28,7 @@
             <set name="attunement">true</set>
             <set name="weapon">Dagger</set>
         </setters>
-    </element>
+    </element> -->
     <element name="Sword of TEST TEST TEST TEST" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_SWORD_OF_TEST_TEST">
 		<description>
 			<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>
