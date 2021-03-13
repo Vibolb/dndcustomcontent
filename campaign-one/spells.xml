@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements>
+    <info>
+        <name>Spells</name>
+        <update version="1.0.0">
+            <file url="https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/campaign-one/spells.xml" name="spells.xml"/>
+        </update>
+    </info>
+    <element name="A Tooth for a Tooth" id="ID_DNDC1_SPELL_A_TOOTH_FOR_A_TOOTH" source="DnDCustomContent - Campaign One" type="Spell">
+        <supports>Lex Talionis</supports>
+        <description>
+            <p>You stab your attacker in retaliation, attempting to siphon their life force to strengthen your own. Make a melee spell attack or a melee attack with Lex Talionis against the creature whose attack triggered this reaction. If the attack hits, the weapon deals its regular damage plus 1d4 necrotic damage, and grants you an amount of temporary hit points equal to the amount of additional necrotic damage dealt</p>
+            <p class="indent">The spell's additional necrotic damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4) and 17th level (4d4).</p>
+        </description>
+        <setters>
+            <set name="keywords"></set>
+            <set name="level">0</set>
+            <set name="school">Necromancy</set>
+            <set name="time">1 reaction, which you take when you are hit by a melee attack or a melee spell attack.</set>
+            <set name="duration">Instantaneous</set>
+            <set name="range">5 feet</set>
+            <set name="hasVerbalComponent">true</set>
+            <set name="hasSomaticComponent">false</set>
+            <set name="hasMaterialComponent">true</set>
+            <set name="materialComponent">A weapon</set>
+            <set name="isConcentration">false</set>
+            <set name="isRitual">false</set>
+        </setters>
+    </element>
+    <element name="A Eye for an Eye" id="ID_DNDC1_SPELL_AN_EYE_FOR_AN_EYE" source="DnDCustomContent - Campaign One" type="Spell">
+        <supports>Lex Talionis</supports>
+        <description>
+            <p>When a creature you can see within 60 feet of you hits you with a ranged attack or a ranged spell attack, you command Lex Talionis' eye to glare at it as a reaction. The target must succeed a DC 12 Constitution saving throw or take 1d6 necrotic damage. A creature that cannot see you automatically succeeds. On a failed save, a creature <b>made of flesh</b> begins to stiffens as some of its cells turn to stone. Its speed is halved and it has disadvantage on Dexterity saving throws for 1 minute. It can repeat the saving throw at the end of each subsequent turn, ending the effect on a successful save</p>
+            <p class="indent">
+                The spell's damage increases by 1d6 and its DC by 1 when you reach 5th level (2d6/DC 13), 11th level (3d6/DC 14) and 17th level (4d6/DC 15).
+            </p>
+        </description>
+        <setters>
+            <set name="keywords"/>
+            <set name="level">0</set>
+            <set name="school">Necromancy</set>
+            <set name="time">1 reaction, which you take when you are hit by a ranged attack or a ranged spell attack</set>
+            <set name="duration">Instantaneous</set>
+            <set name="range">60 feet</set>
+            <set name="hasVerbalComponent">true</set>
+            <set name="hasSomaticComponent">false</set>
+            <set name="hasMaterialComponent">true</set>
+            <set name="materialComponent">A weapon</set>
+            <set name="isConcentration">false</set>
+            <set name="isRitual">false</set>
+        </setters>
+    </element>
+</elements>
