@@ -3,7 +3,7 @@
     <info>
         <name>Spells</name>
         <update version="1.0.0">
-            <file url="https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/campaign-one/spells.xml" name="spells.xml"/>
+            <file url="https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/campaign-one/spells.xml" name="spells.xml" />
         </update>
     </info>
     <element name="A Tooth for a Tooth" id="ID_DNDC1_SPELL_A_TOOTH_FOR_A_TOOTH" source="DnDCustomContent - Campaign One" type="Spell">
@@ -13,7 +13,7 @@
             <p class="indent">The spell's additional necrotic damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4) and 17th level (4d4).</p>
         </description>
         <setters>
-            <set name="keywords"></set>
+            <set name="keywords" />
             <set name="level">0</set>
             <set name="school">Necromancy</set>
             <set name="time">1 reaction, which you take when you are hit by a melee attack or a melee spell attack.</set>
@@ -36,7 +36,7 @@
             </p>
         </description>
         <setters>
-            <set name="keywords"/>
+            <set name="keywords" />
             <set name="level">0</set>
             <set name="school">Necromancy</set>
             <set name="time">1 reaction, which you take when you are hit by a ranged attack or a ranged spell attack</set>
