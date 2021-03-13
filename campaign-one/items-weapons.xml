@@ -10,12 +10,12 @@
 	<!-- place your elements here -->
 	<element name="Lex Talionis" id="ID_DNDC1_DMG_MAGIC_ITEM_LEX_TALIONIS" source="DnDCustomContent - Campaign One" type="Magic Item">
         <description>
-            <p>While attuned to this item AND wielding it, the bearer can cast <strong><em>An Eye for an Eye</em></strong> and <strong><em>A Tooth for a Tooth</em></strong> once per long rest</p>
+            <p>While attuned to this item <em>and</em> wielding it, the bearer can cast <strong><em>An Eye for an Eye</em></strong> and <strong><em>A Tooth for a Tooth</em></strong> once per long rest.</p>
             <div class="reference">
-                <div element="ID_DNDC1_SPELL_AN_EYE_FOR_AN_EYE"/>
+                <div element="ID_DNDC1_SPELL_AN_EYE_FOR_AN_EYE" />
             </div>
             <div class="reference">
-                <div element="ID_DNDC1_SPELL_A_TOOTH_FOR_A_TOOTH"/>
+                <div element="ID_DNDC1_SPELL_A_TOOTH_FOR_A_TOOTH" />
             </div>
         </description>
         <setters>
