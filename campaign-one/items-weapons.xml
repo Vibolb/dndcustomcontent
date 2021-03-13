@@ -29,7 +29,7 @@
             <set name="weapon">Dagger</set>
         </setters>
     </element>
-    <element name="Sword of TEST TEST TEST TEST" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_SWORD_OF_VENGEANCE">
+    <element name="Sword of TEST TEST TEST TEST" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_SWORD_OF_TEST_TEST">
 		<description>
 			<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>
 			<p class="indent"><strong><em>Curse.</em></strong> This sword is cursed and possessed by a vengeful spirit. Becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the sword, keeping it on your person at all times. While attuned to this weapon, you have disadvantage on attack rolls made with weapons other than this one.</p>
