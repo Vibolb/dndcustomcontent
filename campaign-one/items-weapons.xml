@@ -8,11 +8,9 @@
 	</info>
 	
 	<!-- place your elements here -->
-	-<element name="Lex Talionis" id="ID_WOTC_DMG_MAGIC_ITEM_LEX_TALIONIS" source="DnDCustomContent - Campaign One" type="Magic Item">
+	-<element name="Lex Talionis" id="ID_DNDC1_DMG_MAGIC_ITEM_LEX_TALIONIS" source="DnDCustomContent - Campaign One" type="Magic Item">
         -<description>
             <p>While attuned to this item AND wielding it, the bearer can cast <strong>An Eye for an Eye</strong> and <strong>A Tooth for a Tooth</strong> once per long rest</p>
-            <p class="indent"></p>
-            <p class="indent"></p>
             <div class="reference">
                 <div element="ID_DNDC1_SPELL_AN_EYE_FOR_AN_EYE"/>
             </div>

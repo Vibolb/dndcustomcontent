@@ -8,7 +8,7 @@
 	</info>
 	
 	<!-- place your elements here -->
-	<element type="Magic Item" source="DnDCustomContent - Campaign One" id="ID_WONDROUS_ITEM_BAND_OF_EQUANIMITY" name="Band of Equanimity">
+	<element type="Magic Item" source="DnDCustomContent - Campaign One" id="ID_DNDC1_WONDROUS_ITEM_BAND_OF_EQUANIMITY" name="Band of Equanimity">
 		<supports>Wondrous Items</supports>
 		<description>
 			<p> While attuned to this item</p>
