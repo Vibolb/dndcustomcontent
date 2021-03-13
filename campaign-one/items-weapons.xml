@@ -8,8 +8,8 @@
 	</info>
 	
 	<!-- place your elements here -->
-	-<element name="Lex Talionis" id="ID_DNDC1_DMG_MAGIC_ITEM_LEX_TALIONIS" source="DnDCustomContent - Campaign One" type="Magic Item">
-        -<description>
+	<element name="Lex Talionis" id="ID_DNDC1_DMG_MAGIC_ITEM_LEX_TALIONIS" source="DnDCustomContent - Campaign One" type="Magic Item">
+        <description>
             <p>While attuned to this item AND wielding it, the bearer can cast <strong>An Eye for an Eye</strong> and <strong>A Tooth for a Tooth</strong> once per long rest</p>
             <div class="reference">
                 <div element="ID_DNDC1_SPELL_AN_EYE_FOR_AN_EYE"/>
@@ -18,7 +18,7 @@
                 <div element="ID_DNDC1_SPELL_A_TOOTH_FOR_A_TOOTH"/>
             </div>
         </description>
-        -<setters>
+        <setters>
             <set name="keywords">dagger</set>
             <set name="category">Magic Weapons</set>
             <set name="cost" currency="gp">0</set>
@@ -28,5 +28,5 @@
             <set name="attunement">true</set>
             <set name="weapon">Dagger</set>
         </setters>
-        </element>
+    </element>
 </elements>
