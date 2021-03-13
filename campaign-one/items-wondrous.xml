@@ -30,7 +30,7 @@
 		<setters>
 			<set name="category">Wondrous Items</set>
 			<set name="cost" currency="gp">0</set>
-			<set name="weight" lb="0">0.25 lb.</set>
+			<set name="weight" lb="0.25">0.25 lb.</set>
 			<set name="slot">head</set>
 			<set name="type">Wondrous Item</set>
 			<set name="attunement">true</set>
