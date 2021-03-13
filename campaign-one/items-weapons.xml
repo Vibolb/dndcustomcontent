@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Weapons</name>
+		<update version="1.0.0">
+			<file name="items-weapons.xml" url="https://raw.githubusercontent.com/Vibolb/dndcustomcontent/master/campaign-one/items-weapons.xml" />
+		</update>
+	</info>
+	
+	<!-- place your elements here -->
+	-<element name="Lex Talionis" id="ID_WOTC_DMG_MAGIC_ITEM_LEX_TALIONIS" source="DnDCustomContent - Campaign One" type="Magic Item">
+        -<description>
+            <p>While attuned to this item AND wielding it, the bearer can cast <strong>An Eye for an Eye</strong> and <strong>A Tooth for a Tooth</strong> once per long rest</p>
+            <p class="indent"></p>
+            <p class="indent"></p>
+            <div class="reference">
+                <div element="ID_DNDC1_SPELL_AN_EYE_FOR_AN_EYE"/>
+            </div>
+            <div class="reference">
+                <div element="ID_DNDC1_SPELL_A_TOOTH_FOR_A_TOOTH"/>
+            </div>
+        </description>
+        -<setters>
+            <set name="keywords">dagger</set>
+            <set name="category">Magic Weapons</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="type" addition="dagger">Weapon</set>
+            <set name="rarity">Uncommon</set>
+            <set name="enhancement">2</set>
+            <set name="attunement">true</set>
+            <set name="weapon">Dagger</set>
+        </setters>
+        </element>
+</elements>
