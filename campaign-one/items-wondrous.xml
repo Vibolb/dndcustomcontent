@@ -82,8 +82,8 @@
 						<ul>
 							<li>You cannot voluntarily end attunement to this item.</li>
 							<li>Forcibly removing the heart removes your heart in the process.</li>
-							<li>Forcibly removing the heart removes your heart in the process.</li>
-							<li>You are vulnerable to fire. <em>Additionally</em>, after taking fire damage, you must succeed a Wisdom saving throw with a DC equal to 10 or half the received damage, whichever is higher. On a failed save, you are Frightened by the damage’s source for 1 minute. You can repeat the save at the end of your turn, ending the effect on a success.</li>
+							<li>Thorns dig into your inner organs, reducing your hit point maximum by 1/player level.</li>
+							<li>You are vulnerable to fire. Additionally, after taking fire damage, you must succeed a Wisdom saving throw with a DC equal to 10 or half the received damage, whichever is higher. On a failed save, you are Frightened by the damage’s source for 1 minute. You can repeat the save at the end of your turn, ending the effect on a success.</li>
 							<li>The heart’s despair flows through your veins, you have Disadvantage on saving throws against being Frightened.</li>
 							<li>Voluntarily harming plants or beasts or letting it happen unless for self-defense, survival or nature’s greater good - at your DM's discretion - requires you to make a DC 14 Charisma saving throw. On a failed save, you take 1d6 psychic damage. Failing this save frequently can lead to short- and long-term madness.</li>
 						</ul>
