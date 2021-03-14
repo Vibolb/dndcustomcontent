@@ -52,36 +52,42 @@
 					<strong><em>Otherwordly Charm: </em></strong> if you spend one minute interacting with a target within 30 feet of you that can see you, you can force it to make a Wisdom saving throw against your spell save DC. On a failure, the target becomes charmed by you for 1 hour or until someone in your party harms it. The creature has no indication that you tried to charm it. Creatures that are immune to being charmed automatically succeed on the saving throw. Once you use this feature, you cannot use it again until you finish a long rest.
 				</p>
 				<p>
-					<strong><em>At 4th level</em></strong> you can innately cast <em>Lesser Restoration</em> on yourself once per long rest. 
+					<strong><em>At 4th level: </em></strong> you can innately cast <em>Lesser Restoration</em> on yourself once per long rest. 
 				</p>
 				<p>
-					<strong><em>At 6th level: </em></strong>
-					<ul>
-						<li>You can innately cast <em>Plant Growth</em> once per long rest.</li>
-						<li>While your current hit points are below your maximum hit points and you are not incapacitated, you recover 3 hit points at the start of your turn. You must be in direct sunlight to to receive this benefit. You recover 4 hit points at 14th level and 5 hit points at 18th level.</li>
-					</ul>
+					<strong><em>At 6th level:</em></strong>
+					<p class="indent">
+						<ul>
+							<li>You can innately cast <em>Plant Growth</em> once per long rest.</li>
+							<li>While your current hit points are below your maximum hit points and you are not incapacitated, you recover 3 hit points at the start of your turn. You must be in direct sunlight to to receive this benefit. You recover 4 hit points at 14th level and 5 hit points at 18th level.</li>
+						</ul>
+					</p>
 				</p>
 				<p>
 					<strong><em>At 14th level</em></strong> you have advantage on saving throws against being charmed, and you can now use your <em>Otherworldly Charm</em> feature <em>twice per long rest</em>. Additionally, you gain resistance to poison.
 				</p>
 				<p>
-					<strong><em>Nature's Shroud: </em></strong>At 18th level, once per long rest, as a bonus action and on your turn, you may gain the following benefits for 1 minute:
-					<ul class="indent">
-						<li>You are invisible until you attack or cast a spell. You have advantage on saving throws against spells and other magical effects.</li>
-						<li>You have resistance to damage caused by spells and other magical effects. </li>
-						<li>Creatures that target you directly with an attack or a harmful, targeted spell - excluding area-of-effect spells - must make a Wisdom saving throw against your spell save DC. On a failed save, the creature must choose a new target or forfeit targeting someone, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. Creatures that are immune to being charmed automatically succeed on the saving throw.</li>
-					</ul>
+					<strong><em>Nature's Shroud: </em></strong> At 18th level, once per long rest, as a bonus action and on your turn, you may gain the following benefits for 1 minute:
+					<p class="indent">
+						<ul class="indent">
+							<li>You are invisible until you attack or cast a spell. You have advantage on saving throws against spells and other magical effects.</li>
+							<li>You have resistance to damage caused by spells and other magical effects. </li>
+							<li>Creatures that target you directly with an attack or a harmful, targeted spell - excluding area-of-effect spells - must make a Wisdom saving throw against your spell save DC. On a failed save, the creature must choose a new target or forfeit targeting someone, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. Creatures that are immune to being charmed automatically succeed on the saving throw.</li>
+						</ul>
+					</p>
 				</p>
 				<p>
-					<strong><em>Curse.</em></strong>
-					<ul class="indent">
-						<li>You cannot voluntarily end attunement to this item.</li>
-						<li>Forcibly removing the heart removes your heart in the process.</li>
-						<li>Forcibly removing the heart removes your heart in the process.</li>
-						<li>You are vulnerable to fire. <em>Additionally</em>, after taking fire damage, you must succeed a Wisdom saving throw with a DC equal to 10 or half the received damage, whichever is higher. On a failed save, you are Frightened by the damage’s source for 1 minute. You can repeat the save at the end of your turn, ending the effect on a success.</li>
-						<li>The heart’s despair flows through your veins, you have Disadvantage on saving throws against being Frightened.</li>
-						<li>Voluntarily harming plants or beasts or letting it happen unless for self-defense, survival or nature’s greater good - at your DM's discretion - requires you to make a DC 14 Charisma saving throw. On a failed save, you take 1d6 psychic damage. Failing this save frequently can lead to short- and long-term madness.</li>
-					</ul>
+					<strong><em>Curse.</em></strong> This item is cursed and affects you with the following:
+					<p class="indent">
+						<ul class="indent">
+							<li>You cannot voluntarily end attunement to this item.</li>
+							<li>Forcibly removing the heart removes your heart in the process.</li>
+							<li>Forcibly removing the heart removes your heart in the process.</li>
+							<li>You are vulnerable to fire. <em>Additionally</em>, after taking fire damage, you must succeed a Wisdom saving throw with a DC equal to 10 or half the received damage, whichever is higher. On a failed save, you are Frightened by the damage’s source for 1 minute. You can repeat the save at the end of your turn, ending the effect on a success.</li>
+							<li>The heart’s despair flows through your veins, you have Disadvantage on saving throws against being Frightened.</li>
+							<li>Voluntarily harming plants or beasts or letting it happen unless for self-defense, survival or nature’s greater good - at your DM's discretion - requires you to make a DC 14 Charisma saving throw. On a failed save, you take 1d6 psychic damage. Failing this save frequently can lead to short- and long-term madness.</li>
+						</ul>
+					</p>
 				</p>
 			</p>
 		</description>
